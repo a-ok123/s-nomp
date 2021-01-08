@@ -9,8 +9,8 @@
     "txfee": 0.0004,
     "subsidyMultipleOfSatoshi": 100000,
     "explorer": {
-        "txURL": "",
-        "blockURL": "",
-        "_comment_explorer": ""
+        "txURL": "https://explorer.pastel.network/tx",
+        "blockURL": "https://explorer.pastel.network/block",
+        "_comment_explorer": "https://explorer.pastel.network"
     }
 }
